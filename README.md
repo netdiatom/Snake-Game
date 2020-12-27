@@ -1,4 +1,6 @@
-SnakeGame
+SnakeGame adaptationn for cryptoloot.online game room
+Forking developer Jeremy D Higgs
+Net Diatom
 =========
 
 Classic Arcade Game- Snake
